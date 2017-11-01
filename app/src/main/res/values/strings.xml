@@ -1,0 +1,105 @@
+<resources>
+    <string name="app_name">Traveller</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_main22">Main22Activity</string>
+
+    <string-array name="loc0">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+
+    <string-array name="loc1">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+
+    <string-array name="loc2">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+
+    <string-array name="loc3">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+
+    <string-array name="loc4">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+
+    <string-array name="loc5">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+
+    <string-array name="loc6">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+
+    <string-array name="loc7">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+
+    <string-array name="loc8">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+
+    <string-array name="loc9">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+
+    <string-array name="loc10">
+        <item>OVERVIEW</item>
+        <item>CUISINE</item>
+        <item>CLIMATE</item>
+        <item>DRIVING</item>
+        <item>VISA REQUIREMENTS</item>
+        <item>DO\'s AND DONT\'s</item>
+    </string-array>
+</resources>
